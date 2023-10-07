@@ -1,0 +1,36 @@
+{
+  "index": "Get Started",
+  "introduction": "",
+  "exploringtechcareers": "Exploring Tech Careers",
+  "programminglanguages": "Programming Languages",
+  "skilldevelopmentandeducation": "Skill Development and Education",
+  "buildingyourportfolio": "Building Your Portfolio",
+  "networkingandcommunity": "Networking and Community",
+  "jobsearchingandapplications": "Job Searching and Applications",
+  "acingtheinterviewprocess": "Acing the Interview Process",
+  "thrivinginyournewtechcareer": "Thriving in Your New Tech Career",
+  "Conclusion": "",
+  "-- TCC Ambassadors": {
+    "type": "separator",
+    "title": "Ambassadors"
+  },
+  "ambassadors": "TCC Ambassadors",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "techleap": {
+    "title": "Tech Leap",
+    "type": "page"
+  },
+  "heroes": {
+    "title": "Heroes",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://www.linkedin.com/in/peterayeni/",
+    "newWindow": true
+  }
+}
